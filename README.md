@@ -17,7 +17,7 @@ I enjoy understanding how things work internally — whether it's a DSA problem,
 
 ## 🛠 Tech Stack
 
-Languages: C++, Python, SQL  
+Languages: C, C++, Python, SQL  
 Tools: MongoDB, OpenCV, Pandas, NumPy  
 Version Control: Git & GitHub  
 
