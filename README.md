@@ -12,7 +12,7 @@ Artificial Intelligence & Data Science Student | DSA Learner | Frontend Enthusia
 
 ## 🚀 About Me
 
-- 🎓 3rd Year AI & DS Engineering Student
+- 🎓 2nd Year AI & DS Engineering Student
 - 💻 Passionate about Problem Solving and Development
 - 🌱 Currently learning:
   - JavaScript
