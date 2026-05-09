@@ -8,10 +8,6 @@ Artificial Intelligence & Data Science Student | DSA Learner | Frontend Enthusia
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Frontend+Development+Learner;DSA+%7C+JavaScript+%7C+Machine+Learning;Building+Projects+and+Learning+Everyday" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejasvinifulari5&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -110,15 +106,6 @@ AI project using OpenCV and pose estimation.
 
 ---
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="www.linkedin.com/in/tejasvini-fulari-286b46380">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
