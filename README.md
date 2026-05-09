@@ -8,11 +8,15 @@ Artificial Intelligence & Data Science Student | DSA Learner | Frontend Enthusia
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Frontend+Development+Learner;DSA+%7C+JavaScript+%7C+Machine+Learning;Building+Projects+and+Learning+Everyday" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejasvinifulari5&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 🎓 2nd Year AI & DS Engineering Student
+- 🎓 3rd Year AI & DS Engineering Student
 - 💻 Passionate about Problem Solving and Development
 - 🌱 Currently learning:
   - JavaScript
@@ -90,9 +94,9 @@ AI project using OpenCV and pose estimation.
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasvinifulari5&show_icons=true&theme=tokyonight" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvinifulari5&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -101,7 +105,7 @@ AI project using OpenCV and pose estimation.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=tejasvinifulari5&theme=tokyonight"/>
 </p>
 
 ---
@@ -109,7 +113,7 @@ AI project using OpenCV and pose estimation.
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="www.linkedin.com/in/tejasvini-fulari-286b46380">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
