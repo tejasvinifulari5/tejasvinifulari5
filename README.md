@@ -6,14 +6,6 @@ I enjoy understanding how things work internally — whether it's a DSA problem,
 
 ---
 
-## 💻 What I'm Currently Doing
-
-- Practicing DSA regularly (C++)
-- Building ML & Computer Vision mini-projects
-- Learning MongoDB and backend basics
-- Strengthening core subjects like OS, DBMS & OOPS
-
----
 
 ## 🛠 Tech Stack
 
@@ -23,15 +15,10 @@ Version Control: Git & GitHub
 
 ---
 
-## 📊 Coding Practice
 
-LeetCode: https://leetcode.com/u/Tejasvini_Fulari/
-
----
 
 ## 🎯 Goals
-
-- Solve 400+ DSA problems  
+  
 - Build strong ML portfolio
 - Strengthen core CS subjects (OS, DBMS, OOPS, CN)
 - Maintain consistent GitHub activity
