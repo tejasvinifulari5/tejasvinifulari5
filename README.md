@@ -82,7 +82,17 @@ Responsive game built using HTML, CSS, and JavaScript.
 ### 🤖 AI-Based Posture Alignment Project
 AI project using OpenCV and pose estimation.
 
-### 📚 More Projects Coming Soon...
+### 🎯 [PlaceWise-AI](https://github.com/tejasvinifulari5/PlaceWise-AI) — Placement Readiness Predictor
+ML system that predicts student placement readiness with personalized improvement recommendations.
+- **Tech:** Python, Scikit-learn, Streamlit, Pandas, Seaborn
+- **Models:** Logistic Regression (86%), Random Forest, SVM, KNN, Decision Tree
+- **Live Demo:** [placewise-ai.streamlit.app](https://placewise-ai-phjp3nuykefqnamxmbzeal.streamlit.app/)
+- **Status:** Deployed ✅
+
+### 👥 CrowdLens-AI — Smart Crowd Safety Platform
+Real-time crowd density prediction and women's safety platform with SOS emergency system and safe route identification.
+- **Tech:** Python, AI/ML, Web Technologies
+- **Status:** Hackathon Project ✅
 
 ---
 
