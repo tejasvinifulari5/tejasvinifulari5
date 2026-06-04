@@ -116,7 +116,6 @@ Real-time crowd density prediction and women's safety platform with SOS emergenc
 
 ---
 
-
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
